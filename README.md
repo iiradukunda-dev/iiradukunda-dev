@@ -1,11 +1,11 @@
-# 👨‍💻 **IRADUKUNDA Pacifique**
+# 👨‍💻 𝙸𝚁𝙰𝙳𝚄𝙺𝚄𝙽𝙳𝙰 𝙿𝙰𝙲𝙸𝙵𝙸𝚀𝚄𝙴
 
 I’m a passionate developer and programmer focused on building **clean, efficient, and scalable software**.  
 I work with modern frameworks, databases, cybersecurity tools, and AI technologies.
 
 ---
 
-## 💻 **My Skills**
+## 💻 𝙼𝚈 𝚂𝙺𝙸𝙻𝙻𝚂
 
 | **Programming Languages** | **Frameworks & Libraries** | **Databases & Tools** | **Other / OS** |
 |---------------------------|---------------------------|---------------------|----------------|
@@ -13,7 +13,7 @@ I work with modern frameworks, databases, cybersecurity tools, and AI technologi
 
 ---
 
-## 📂 **Featured Projects**
+## 📂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝙳 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
 
 - **Project 1:** [Link](#) – Short description  
 - **Project 2:** [Link](#) – Short description  
@@ -23,7 +23,7 @@ I work with modern frameworks, databases, cybersecurity tools, and AI technologi
 
 ---
 
-## 📈 **GitHub Stats**
+## 📈 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂
 
 ![IRADUKUNDA Pacifique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical)
 
