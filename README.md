@@ -25,7 +25,7 @@ I work with modern frameworks, databases, cybersecurity tools, and AI technologi
 
 ## 📈 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂
 
-![IRADUKUNDA Pacifique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical)
+![IRADUKUNDA Pacifique's GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400))
 
 ---
 
