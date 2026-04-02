@@ -15,8 +15,8 @@ I work with modern frameworks, databases, cybersecurity tools, and AI technologi
 
 ## 📂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝙳 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
 
-- **Project 1:** [Link](#) – Short description  
-- **Project 2:** [Link](https://github.com/iiradukunda-dev/Fitness-Platform.git) – Online Fitness Platform 
+- **Forex WebApp:** [Link](https://github.com/iiradukunda-dev/ForexWebApp.git) – java made project for forex(Online forex)  
+- **Online fitness platform:** [Link](https://github.com/iiradukunda-dev/Fitness-Platform.git) – Online Fitness Platform 
 - **Project 3:** [Link](#) – Short description  
 
 > Replace `#` with your actual repository links.
