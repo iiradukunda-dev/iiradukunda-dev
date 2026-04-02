@@ -15,9 +15,9 @@ I work with modern frameworks, databases, cybersecurity tools, and AI technologi
 
 ## 📂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝙳 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
 
-- **Shining ministries:** [Link](#) – Shining ministries web for managing music tracks and musicians from shining ministries and thier events
-- **Forex WebApp:** [Link](https://github.com/iiradukunda-dev/ForexWebApp.git) – java made project for forex(Online forex)  
-- **Online fitness platform:** [Link](https://github.com/iiradukunda-dev/Fitness-Platform.git) – Online Fitness Platform  
+- **Shining ministries:** [Open](https://github.com/iiradukunda-dev/Shining-ministries.git) – Shining ministries web for managing music tracks and musicians from shining ministries and thier events
+- **Forex WebApp:** [Open](https://github.com/iiradukunda-dev/ForexWebApp.git) – java made project for forex(Online forex)  
+- **Online fitness platform:** [Open](https://github.com/iiradukunda-dev/Fitness-Platform.git) – Online Fitness Platform  
 
 > Replace `#` with your actual repository links.
 
