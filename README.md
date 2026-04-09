@@ -19,7 +19,7 @@
   𝑾𝒆𝒃 𝒑𝒍𝒂𝒕𝒇𝒐𝒓𝒎 𝒇𝒐𝒓 𝒎𝒂𝒏𝒂𝒈𝒊𝒏𝒈 𝒎𝒖𝒔𝒊𝒄 𝒕𝒓𝒂𝒄𝒌𝒔, 𝒎𝒖𝒔𝒊𝒄𝒊𝒂𝒏𝒔, 𝒂𝒏𝒅 𝒆𝒗𝒆𝒏𝒕𝒔  
 
 - **Forex WebApp:** [Open](https://github.com/iiradukunda-dev/ForexWebApp)  
-  𝑱𝒂𝒗𝒂-𝒃𝒂𝒔𝒆𝒅 𝒐𝒏𝒍𝒊𝒏𝒆 𝒇𝒐𝒓𝒆𝒙 𝒂𝒑𝒑  
+  𝑱𝒂𝒗𝒂-𝒃𝒂𝒔𝒆𝒅 𝒐𝒏𝒍𝒊𝒏𝒆 𝒇𝒐𝒓𝒆𝒙  
 
 - **Online Fitness Platform:** [Open](https://github.com/iiradukunda-dev/Fitness-Platform)  
   𝑪𝑹𝑼𝑫-𝒃𝒂𝒔𝒆𝒅 𝒇𝒊𝒕𝒏𝒆𝒔𝒔 𝒔𝒚𝒔𝒕𝒆𝒎  
