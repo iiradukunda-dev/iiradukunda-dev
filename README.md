@@ -16,10 +16,10 @@
 ## 📂 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 
 - **Shining Ministries:** [Open](https://github.com/iiradukunda-dev/Shining-ministries)  
-  𝑾𝒆𝒃 𝒑𝒍𝒂𝒕𝒇𝒐𝒓𝒎 𝒇𝒐𝒓 𝒎𝒂𝒏𝒂𝒈𝒊𝒏𝒈 𝒎𝒖𝒔𝒊𝒄 𝒕𝒓𝒂𝒄𝒌𝒔, 𝒎𝒖𝒔𝒊𝒄𝒊𝒂𝒏𝒔, 𝒂𝒏𝒅 𝒆𝒗𝒆𝒏𝒕𝒔  
+  Web platform for managing Musicians,Tracks  and their events
 
 - **Forex WebApp:** [Open](https://github.com/iiradukunda-dev/ForexWebApp)  
-  𝑱𝒂𝒗𝒂-𝒃𝒂𝒔𝒆𝒅 𝒐𝒏𝒍𝒊𝒏𝒆 𝒇𝒐𝒓𝒆𝒙  
+  Java based online forex web app 
 
 - **Online Fitness Platform:** [Open](https://github.com/iiradukunda-dev/Fitness-Platform)  
   Pure Java project with no framework applied 
