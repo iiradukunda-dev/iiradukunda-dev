@@ -22,7 +22,7 @@
   𝑱𝒂𝒗𝒂-𝒃𝒂𝒔𝒆𝒅 𝒐𝒏𝒍𝒊𝒏𝒆 𝒇𝒐𝒓𝒆𝒙  
 
 - **Online Fitness Platform:** [Open](https://github.com/iiradukunda-dev/Fitness-Platform)  
-  𝑪𝑹𝑼𝑫-𝒃𝒂𝒔𝒆𝒅 𝒇𝒊𝒕𝒏𝒆𝒔𝒔 𝒔𝒚𝒔𝒕𝒆𝒎  
+  Pure Java project with no framework applied 
 
 ---
 
