@@ -1,3 +1,58 @@
+<p align="center">
+
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <!-- Cloud blur -->
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="2" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)" />
+
+  <!-- CLOUDS (animated floating) -->
+  <g opacity="0.25" filter="url(#blur)">
+    <circle cx="100" cy="60" r="30" fill="white">
+      <animate attributeName="cx" from="100" to="1300" dur="25s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="200" cy="80" r="40" fill="white">
+      <animate attributeName="cx" from="200" to="1400" dur="30s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="400" cy="50" r="25" fill="white">
+      <animate attributeName="cx" from="400" to="1500" dur="35s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- CODE SYMBOLS -->
+  <g font-size="22" fill="#38bdf8" opacity="0.6">
+    <text x="50" y="180">&lt;/&gt;
+      <animate attributeName="y" from="180" to="20" dur="8s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="300" y="200">{ }</text>
+    <text x="600" y="180">()</text>
+    <text x="900" y="200">const</text>
+  </g>
+
+  <!-- Title -->
+  <text x="50%" y="110" text-anchor="middle"
+        font-size="40" fill="white" font-weight="bold">
+    Iradukunda Pacifique
+  </text>
+
+</svg>
+
+</p>
 # 👨‍💻 𝑰𝒓𝒂𝒅𝒖𝒌𝒖𝒏𝒅𝒂 𝑷𝒂𝒄𝒊𝒇𝒊𝒒𝒖𝒆
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iiradukunda-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge)
