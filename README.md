@@ -1,7 +1,13 @@
 # 👨‍💻 𝑰𝒓𝒂𝒅𝒖𝒌𝒖𝒏𝒅𝒂 𝑷𝒂𝒄𝒊𝒇𝒊𝒒𝒖𝒆
 
+![Profile Views](https://komarev.com/ghpvc/?username=iiradukunda-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/iiradukunda-dev?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/iiradukunda-dev?style=for-the-badge)
+
+---
+
 𝑰’𝒎 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒐𝒄𝒖𝒔𝒆𝒅 𝒐𝒏 **𝒄𝒍𝒆𝒂𝒏, 𝒆𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕, 𝒂𝒏𝒅 𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆**.  
-𝑰 𝒘𝒐𝒓𝒌 𝒘𝒊𝒕𝒉 𝒎𝒐𝒅𝒆𝒓𝒏 𝒇𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔, 𝒅𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔, 𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝒕𝒐𝒐𝒍𝒔, 𝒂𝒏𝒅 𝑨𝑰 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔.
+𝑰 𝒘𝒐𝒓𝒌 𝒘𝒊𝒕𝒉 𝒎𝒐𝒅𝒆𝒓𝒏 𝒇𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔, 𝒅𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔, 𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝒕𝒐𝒐𝒍𝒔, 𝒂𝒏𝒅 𝑨𝑰 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔.
 
 ---
 
@@ -16,21 +22,29 @@
 ## 📂 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 
 - **Shining Ministries:** [Open](https://github.com/iiradukunda-dev/Shining-ministries)  
-  Web platform for managing Musicians,Tracks  and their events
+  Web platform for managing musicians, tracks, and events
 
 - **Forex WebApp:** [Open](https://github.com/iiradukunda-dev/ForexWebApp)  
-  Java based online forex web app 
+  Java-based online forex web app 
 
 - **Online Fitness Platform:** [Open](https://github.com/iiradukunda-dev/Fitness-Platform)  
   Pure Java project with no framework applied 
 
 ---
 
-## 📈 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
+## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&count_private=true)
 
-![GitHub Streak](https://streak-stats-git-masterrstaa-rickstaa.vercel.app/?user=iiradukunda-dev&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=iiradukunda-dev&theme=radical)
+
+---
+
+## 📈 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚 𝑮𝒓𝒂𝒑𝒉
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iiradukunda-dev&theme=react-dark)
 
 ---
 
