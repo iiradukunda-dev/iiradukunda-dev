@@ -29,7 +29,7 @@
 
 | Programming Languages | Frontend | Frameworks & Libraries | Databases & Tools | Other / OS |
 |----------------------|----------|------------------------|-------------------|-------------|
-| C, C++, Java, Python, JavaScript, PHP | HTML5, CSS | React, Node.js, Spring Boot, Bootstrap, Tailwind CSS, NumPy, Pandas | MySQL, PostgreSQL, Oracle, SQL, Git | Bash, Kali Linux, Cybersecurity, Prompt Engineering |
+| C, C++, Java, Python, JavaScript, PHP | HTML5, CSS | React, Node.js, Spring Boot, Bootstrap, Tailwind CSS, **Java Swing**, NumPy, Pandas | MySQL, PostgreSQL, Oracle, SQL, Git | Bash, Kali Linux, Cybersecurity, Prompt Engineering |
 
 ---
 
@@ -53,6 +53,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -73,13 +74,8 @@
 ## 📂 Featured Projects
 
 - **Shining Ministries:** https://github.com/iiradukunda-dev/Shining-ministries  
-  Web platform for managing musicians, tracks, and events
-
 - **Forex WebApp:** https://github.com/iiradukunda-dev/ForexWebApp  
-  Java-based online forex trading system
-
 - **Online Fitness Platform:** https://github.com/iiradukunda-dev/Fitness-Platform  
-  Pure Java project built without frameworks
 
 ---
 
