@@ -29,7 +29,7 @@
 
 | Programming Languages | Frameworks & Libraries | Databases & Tools | Other / OS |
 |----------------------|----------------------|-------------------|-------------|
-| C, C++, Java, Python, JavaScript, PHP | React, Node.js, Spring Boot, Bootstrap, Tailwind CSS | MySQL, PostgreSQL, Oracle, Git | Bash, Kali Linux, Cybersecurity, Prompt Engineering |
+| C, C++, Java, Python, JavaScript, PHP, **HTML5** | React, Node.js, Spring Boot, Bootstrap, Tailwind CSS, **NumPy, Pandas** | MySQL, PostgreSQL, Oracle, **SQL**, Git | Bash, Kali Linux, Cybersecurity, Prompt Engineering |
 
 ---
 
@@ -42,11 +42,20 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Frameworks
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 ### Tools & Security
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
