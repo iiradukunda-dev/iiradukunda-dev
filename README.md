@@ -21,6 +21,7 @@
 - 🔐 Cybersecurity (Banking Systems Interest)  
 - 🤖 AI & Prompt Engineering  
 - 📊 Data Analysis & Database Management  
+- 🎨 UI/UX Design (Figma)  
 - ⚙️ System Architecture & Clean Code Practices  
 
 ---
@@ -29,7 +30,7 @@
 
 | Programming Languages | Frontend | Frameworks & Libraries | Databases & Tools | Other / OS |
 |----------------------|----------|------------------------|-------------------|-------------|
-| C, C++, Java, Python, JavaScript, PHP | HTML5, CSS | React, Node.js, Spring Boot, Bootstrap, Tailwind CSS, **Java Swing**, NumPy, Pandas | MySQL, PostgreSQL, Oracle, SQL, Git | Bash, Kali Linux, Cybersecurity, Prompt Engineering |
+| C, C++, Java, Python, JavaScript, PHP | HTML5, CSS | React, Node.js, Spring Boot, Bootstrap, Tailwind CSS, Java Swing, NumPy, Pandas | MySQL, PostgreSQL, Oracle, SQL, Git, Figma | Bash, Kali Linux, Cybersecurity, Prompt Engineering |
 
 ---
 
@@ -45,7 +46,7 @@
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -63,8 +64,9 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### Tools & Security
+### Tools, Design & Security
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-007ACC?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9900?style=for-the-badge)
@@ -74,8 +76,13 @@
 ## 📂 Featured Projects
 
 - **Shining Ministries:** https://github.com/iiradukunda-dev/Shining-ministries  
+  Web platform for managing musicians, tracks, and events  
+
 - **Forex WebApp:** https://github.com/iiradukunda-dev/ForexWebApp  
+  Java-based online forex trading system  
+
 - **Online Fitness Platform:** https://github.com/iiradukunda-dev/Fitness-Platform  
+  Pure Java project built without frameworks  
 
 ---
 
