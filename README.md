@@ -11,11 +11,11 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=𝑰’𝒎+𝒂+𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆+𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌+𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓;𝑰+𝒃𝒖𝒊𝒍𝒅+𝒄𝒍𝒆𝒂𝒏,+𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆,+𝒂𝒏𝒅+𝒔𝒆𝒄𝒖𝒓𝒆+𝒔𝒚𝒔𝒕𝒆𝒎𝒔;𝑭𝒐𝒄𝒖𝒔𝒆𝒅+𝒐𝒏+𝑨𝑰,+𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚,+𝒂𝒏𝒅+𝒇𝒊𝒏𝒕𝒆𝒄𝒉" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=𝑰’𝒎+𝒂+𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆+𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌+𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓;𝑭𝒐𝒄𝒖𝒔𝒆𝒅+𝒐𝒏+𝒄𝒍𝒆𝒂𝒏,+𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆,+𝒂𝒏𝒅+𝒔𝒆𝒄𝒖𝒓𝒆+𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆;𝑾𝒐𝒓𝒌𝒊𝒏𝒈+𝒘𝒊𝒕𝒉+𝑨𝑰,+𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚,+𝒂𝒏𝒅+𝒅𝒂𝒕𝒂" />
 </p>
 
 𝑰’𝒎 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒐𝒄𝒖𝒔𝒆𝒅 𝒐𝒏 **𝒄𝒍𝒆𝒂𝒏, 𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆, 𝒂𝒏𝒅 𝒔𝒆𝒄𝒖𝒓𝒆 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆**.  
-𝑰 𝒅𝒆𝒔𝒊𝒈𝒏 𝒂𝒏𝒅 𝒃𝒖𝒊𝒍𝒅 𝒔𝒚𝒔𝒕𝒆𝒎𝒔 𝒘𝒊𝒕𝒉 𝒂 𝒔𝒕𝒓𝒐𝒏𝒈 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 **𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚, 𝒑𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆, 𝒂𝒏𝒅 𝒎𝒂𝒊𝒏𝒕𝒂𝒊𝒏𝒂𝒃𝒊𝒍𝒊𝒕𝒚**, 𝒆𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒍𝒚 𝒊𝒏 𝒇𝒊𝒏𝒕𝒆𝒄𝒉 𝒂𝒏𝒅 𝒃𝒂𝒏𝒌𝒊𝒏𝒈-𝒐𝒓𝒊𝒆𝒏𝒕𝒆𝒅 𝒆𝒏𝒗𝒊𝒓𝒐𝒏𝒎𝒆𝒏𝒕𝒔.
+𝑰 𝒘𝒐𝒓𝒌 𝒘𝒊𝒕𝒉 𝒎𝒐𝒅𝒆𝒓𝒏 𝒇𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔, 𝒅𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔, 𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝒕𝒐𝒐𝒍𝒔, 𝒂𝒏𝒅 𝑨𝑰 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔.
 
 ---
 
@@ -79,16 +79,13 @@
 
 ## 📂 Featured Projects
 
-- **Shining Ministries**  
-  https://github.com/iiradukunda-dev/Shining-ministries  
+- **Shining Ministries:** https://github.com/iiradukunda-dev/Shining-ministries  
   Web platform for managing musicians, tracks, and events  
 
-- **Forex WebApp**  
-  https://github.com/iiradukunda-dev/ForexWebApp  
+- **Forex WebApp:** https://github.com/iiradukunda-dev/ForexWebApp  
   Java-based online forex trading system  
 
-- **Online Fitness Platform**  
-  https://github.com/iiradukunda-dev/Fitness-Platform  
+- **Online Fitness Platform:** https://github.com/iiradukunda-dev/Fitness-Platform  
   Pure Java project built without frameworks  
 
 ---
