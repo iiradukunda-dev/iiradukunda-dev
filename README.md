@@ -2,15 +2,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iiradukunda-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/iiradukunda-dev?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/iiradukunda-dev?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/iiradukunda-dev?label=Followers&style=for-the-badge&cacheSeconds=60" />
+  <img src="https://img.shields.io/github/stars/iiradukunda-dev/Shining-ministries?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
-
-
 
 𝑰’𝒎 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒐𝒄𝒖𝒔𝒆𝒅 𝒐𝒏 **𝒄𝒍𝒆𝒂𝒏, 𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆, 𝒂𝒏𝒅 𝒔𝒆𝒄𝒖𝒓𝒆 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆**.  
 𝑰 𝒘𝒐𝒓𝒌 𝒘𝒊𝒕𝒉 𝒎𝒐𝒅𝒆𝒓𝒏 𝒇𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔, 𝒅𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔, 𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝒕𝒐𝒐𝒍𝒔, 𝒂𝒏𝒅 𝑨𝑰 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔.
