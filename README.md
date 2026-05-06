@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iiradukunda-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/iiradukunda-dev?label=Followers&style=for-the-badge&cacheSeconds=60" />
-  <img src="https://img.shields.io/github/stars/iiradukunda-dev/Shining-ministries?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/iiradukunda-dev?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/iiradukunda-dev?style=for-the-badge" />
 </p>
 
 ---
