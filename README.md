@@ -30,7 +30,7 @@ I build modern applications using strong backend systems, intuitive UI, and soli
 
 | Programming Languages | Frontend | Frameworks & Libraries | Databases & Tools | Other / OS |
 |----------------------|----------|------------------------|-------------------|-------------|
-| C, C++, Java, Python, JavaScript, PHP | HTML5, CSS | React, Node.js, Spring Boot, Bootstrap, Tailwind CSS, Java Swing, NumPy, Pandas, Matplotlib | MySQL, PostgreSQL, Oracle, SQL, Git, Figma | Bash, Kali Linux, Cybersecurity, Prompt Engineering |
+| C, C++, Java, Python, JavaScript, PHP | HTML5, CSS | React, Node.js, Spring Boot, Bootstrap, Tailwind CSS, Java Swing, NumPy, Pandas, Matplotlib | MySQL, PostgreSQL, Oracle, SQL, Git, Figma, Netlify | Bash, Kali Linux, Cybersecurity, Prompt Engineering |
 
 ---
 
@@ -65,9 +65,10 @@ I build modern applications using strong backend systems, intuitive UI, and soli
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### Tools, Design & Security
+### Tools, Design & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-007ACC?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9900?style=for-the-badge)
