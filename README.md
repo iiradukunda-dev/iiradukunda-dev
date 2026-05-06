@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 
-𝑰’𝒎 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒐𝒄𝒖𝒔𝒆𝒅 𝒐𝒏 **𝒄𝒍𝒆𝒂𝒏, 𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆, 𝒂𝒏𝒅 𝒔𝒆𝒄𝒖𝒓𝒆 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆**.  
-𝑰 𝒘𝒐𝒓𝒌 𝒘𝒊𝒕𝒉 𝒎𝒐𝒅𝒆𝒓𝒏 𝒇𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔, 𝒅𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔, 𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝒕𝒐𝒐𝒍𝒔, 𝒂𝒏𝒅 𝑨𝑰 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔.
+I’m a passionate full-stack developer focused on **clean, scalable, and secure software**.  
+I build modern applications using strong backend systems, intuitive UI, and solid architecture.
 
 ---
 
@@ -20,7 +20,7 @@
 - 💻 Full-Stack Web Development  
 - 🔐 Cybersecurity (Banking Systems Interest)  
 - 🤖 AI & Prompt Engineering  
-- 📊 Data Analysis & Database Management  
+- 📊 Data Analysis & Visualization  
 - 🎨 UI/UX Design (Figma)  
 - ⚙️ System Architecture & Clean Code Practices  
 
@@ -30,7 +30,7 @@
 
 | Programming Languages | Frontend | Frameworks & Libraries | Databases & Tools | Other / OS |
 |----------------------|----------|------------------------|-------------------|-------------|
-| C, C++, Java, Python, JavaScript, PHP | HTML5, CSS | React, Node.js, Spring Boot, Bootstrap, Tailwind CSS, Java Swing, NumPy, Pandas | MySQL, PostgreSQL, Oracle, SQL, Git, Figma | Bash, Kali Linux, Cybersecurity, Prompt Engineering |
+| C, C++, Java, Python, JavaScript, PHP | HTML5, CSS | React, Node.js, Spring Boot, Bootstrap, Tailwind CSS, Java Swing, NumPy, Pandas, Matplotlib | MySQL, PostgreSQL, Oracle, SQL, Git, Figma | Bash, Kali Linux, Cybersecurity, Prompt Engineering |
 
 ---
 
@@ -57,6 +57,7 @@
 ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -75,14 +76,14 @@
 
 ## 📂 Featured Projects
 
-- **Shining Ministries:** https://github.com/iiradukunda-dev/Shining-ministries  
-  Web platform for managing musicians, tracks, and events  
+- **Shining Ministries**  
+  https://github.com/iiradukunda-dev/Shining-ministries  
 
-- **Forex WebApp:** https://github.com/iiradukunda-dev/ForexWebApp  
-  Java-based online forex trading system  
+- **Forex WebApp**  
+  https://github.com/iiradukunda-dev/ForexWebApp  
 
-- **Online Fitness Platform:** https://github.com/iiradukunda-dev/Fitness-Platform  
-  Pure Java project built without frameworks  
+- **Online Fitness Platform**  
+  https://github.com/iiradukunda-dev/Fitness-Platform  
 
 ---
 
@@ -104,4 +105,4 @@
 
 ## 🤝 Let’s Connect & Build
 
-✨ 𝑳𝒆𝒕’𝒔 𝒃𝒖𝒊𝒍𝒅 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒊𝒎𝒑𝒂𝒄𝒕𝒇𝒖𝒍 𝒕𝒐𝒈𝒆𝒕𝒉𝒆𝒓!
+✨ Let’s build something impactful together!
