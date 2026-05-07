@@ -1,7 +1,7 @@
-# 👨‍💻 Iradukunda Pacifique
+# 👨‍💻 𝑰𝒓𝒂𝒅𝒖𝒌𝒖𝒏𝒅𝒂 𝑷𝒂𝒄𝒊𝒇𝒊𝒒𝒖𝒆
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+System+Builder;Cybersecurity+Explorer;AI+%26+Prompt+Engineering+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+%26+System+Architect;Cybersecurity+Explorer;AI+%26+Prompt+Engineering+Learner" />
 </p>
 
 <p align="center">
@@ -13,57 +13,57 @@
 
 ## 🚀 About Me
 
-I’m a full-stack developer focused on building **scalable, secure, and modern web applications**.  
-I enjoy working on backend systems, UI design, and exploring AI-powered solutions.
+I’m a passionate full-stack developer focused on building **clean, scalable, and secure software systems**.  
+I enjoy backend engineering, UI development, and exploring AI-driven technologies.
 
 ---
 
 ## 🧠 Current Focus
 
-- ⚙️ Backend systems with Node.js & Spring Boot  
-- 🔐 Cybersecurity fundamentals & secure architectures  
-- 🤖 AI, prompt engineering & automation tools  
-- 🎨 Clean UI/UX design using modern frameworks  
-- 📊 Data handling with Python (Pandas, NumPy)
+- ⚙️ Backend development (Node.js & Spring Boot)  
+- 🔐 Cybersecurity fundamentals & secure system design  
+- 🤖 AI, prompt engineering & automation systems  
+- 🎨 UI/UX design with modern frameworks  
+- 📊 Data analysis using Python tools  
 
 ---
 
 ## 💻 Tech Stack
 
 ### Languages
-C • C++ • Java • Python • JavaScript • PHP
+C • C++ • Java • Python • JavaScript • PHP  
 
 ### Frontend
-HTML5 • CSS3 • React • Tailwind CSS • Bootstrap
+HTML5 • CSS3 • React • Tailwind CSS • Bootstrap  
 
 ### Backend
-Node.js • Spring Boot • Flask
+Node.js • Spring Boot • Flask  
 
 ### Databases
-MySQL • PostgreSQL • Oracle
+MySQL • PostgreSQL • Oracle  
 
-### Tools
-Git • GitHub • Figma • Netlify • Vercel • Linux
+### Tools & Platforms
+Git • GitHub • Figma • Netlify • Vercel • Linux  
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🔹 Shining Ministries
-A full-stack ministry management system  
+Full-stack ministry management system  
 Tech: React, Node.js, MySQL  
 👉 https://github.com/iiradukunda-dev/Shining-ministries  
 
 ---
 
 ### 🔹 Forex WebApp
-A web platform for forex-related features and tracking  
+Forex tracking and analytics platform  
 👉 https://github.com/iiradukunda-dev/ForexWebApp  
 
 ---
 
 ### 🔹 Fitness Platform
-An online fitness tracking and coaching system  
+Online fitness tracking and coaching system  
 👉 https://github.com/iiradukunda-dev/Fitness-Platform  
 
 ---
@@ -94,11 +94,11 @@ An online fitness tracking and coaching system
 
 ## 🎯 Career Goal
 
-To become a **software engineer specializing in scalable backend systems and AI-powered applications**, while building impactful real-world solutions.
+To become a **software engineer specializing in scalable backend systems and AI-powered applications**, while building impactful real-world systems.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-✨ I’m always open to collaboration and learning opportunities.  
-Let’s build something impactful together.
+✨ Open to collaboration, internships, and impactful projects.  
+Let’s build something meaningful together.
