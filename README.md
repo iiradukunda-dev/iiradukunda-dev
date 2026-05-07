@@ -1,110 +1,104 @@
-# 👨‍💻 𝑰𝒓𝒂𝒅𝒖𝒌𝒖𝒏𝒅𝒂 𝑷𝒂𝒄𝒊𝒇𝒊𝒒𝒖𝒆
+# 👨‍💻 Iradukunda Pacifique
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+System+Builder;Cybersecurity+Explorer;AI+%26+Prompt+Engineering+Learner" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iiradukunda-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/iiradukunda-dev?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/iiradukunda-dev?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a passionate full-stack developer focused on **clean, scalable, and secure software**.  
-I build modern applications using strong backend systems, intuitive UI, and solid architecture.
+I’m a full-stack developer focused on building **scalable, secure, and modern web applications**.  
+I enjoy working on backend systems, UI design, and exploring AI-powered solutions.
 
 ---
 
-## 🧠 Tech Focus
+## 🧠 Current Focus
 
-- 💻 Full-Stack Web Development  
-- 🔐 Cybersecurity (Banking Systems Interest)  
-- 🤖 AI & Prompt Engineering  
-- 📊 Data Analysis & Visualization  
-- 🎨 UI/UX Design (Figma)  
-- ⚙️ System Architecture & Clean Code Practices  
-
----
-
-## 💻 Skills
-
-| Programming Languages | Frontend | Frameworks & Libraries | Databases & Tools | Other / OS |
-|----------------------|----------|------------------------|-------------------|-------------|
-| C, C++, Java, Python, JavaScript, PHP | HTML5, CSS | React, Node.js, Spring Boot, Bootstrap, Tailwind CSS, Java Swing, NumPy, Pandas, Matplotlib | MySQL, PostgreSQL, Oracle, SQL, Git, Figma, Netlify, Vercel | Bash, Kali Linux, Cybersecurity, Prompt Engineering |
+- ⚙️ Backend systems with Node.js & Spring Boot  
+- 🔐 Cybersecurity fundamentals & secure architectures  
+- 🤖 AI, prompt engineering & automation tools  
+- 🎨 Clean UI/UX design using modern frameworks  
+- 📊 Data handling with Python (Pandas, NumPy)
 
 ---
 
-## 🧩 Tech Stack Badges
+## 💻 Tech Stack
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### Languages
+C • C++ • Java • Python • JavaScript • PHP
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+HTML5 • CSS3 • React • Tailwind CSS • Bootstrap
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+### Backend
+Node.js • Spring Boot • Flask
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+MySQL • PostgreSQL • Oracle
 
-### Tools, Design & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-007ACC?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9900?style=for-the-badge)
+### Tools
+Git • GitHub • Figma • Netlify • Vercel • Linux
 
 ---
 
 ## 📂 Featured Projects
 
-- **Shining Ministries**  
-  https://github.com/iiradukunda-dev/Shining-ministries  
-
-- **Forex WebApp**  
-  https://github.com/iiradukunda-dev/ForexWebApp  
-
-- **Online Fitness Platform**  
-  https://github.com/iiradukunda-dev/Fitness-Platform  
+### 🔹 Shining Ministries
+A full-stack ministry management system  
+Tech: React, Node.js, MySQL  
+👉 https://github.com/iiradukunda-dev/Shining-ministries  
 
 ---
 
-## 📊 GitHub Analytics
+### 🔹 Forex WebApp
+A web platform for forex-related features and tracking  
+👉 https://github.com/iiradukunda-dev/ForexWebApp  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&count_private=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical)
+### 🔹 Fitness Platform
+An online fitness tracking and coaching system  
+👉 https://github.com/iiradukunda-dev/Fitness-Platform  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=iiradukunda-dev&theme=radical)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iiradukunda-dev&theme=radical" />
+</p>
 
 ---
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iiradukunda-dev&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiradukunda-dev&theme=react-dark" />
+</p>
 
 ---
 
-## 🤝 Let’s Connect & Build
+## 🎯 Career Goal
 
-✨ Let’s build something impactful together!
+To become a **software engineer specializing in scalable backend systems and AI-powered applications**, while building impactful real-world solutions.
+
+---
+
+## 🤝 Let's Connect
+
+✨ I’m always open to collaboration and learning opportunities.  
+Let’s build something impactful together.
