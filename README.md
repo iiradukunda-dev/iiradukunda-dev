@@ -1,7 +1,7 @@
 # 👨‍💻 𝑰𝒓𝒂𝒅𝒖𝒌𝒖𝒏𝒅𝒂 𝑷𝒂𝒄𝒊𝒇𝒊𝒒𝒖𝒆
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+%26+System+Architect;Cybersecurity;AI+%26+Prompt+Engineering+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+%26+System+Architect;Cybersecurity;AI+%26+Prompt+Engineering" />
 </p>
 
 <p align="center">
