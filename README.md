@@ -93,23 +93,23 @@
 ### 🔹 Shining Ministries
 Full-stack ministry management system  
 Tech: React, Node.js, MySQL  
-👉 https://github.com/iiradukunda-dev/Shining-ministries  
+ https://github.com/iiradukunda-dev/Shining-ministries  
 
 ---
 
 ### 🔹 Forex WebApp
 Forex tracking and analytics platform  
-👉 https://github.com/iiradukunda-dev/ForexWebApp  
+ https://github.com/iiradukunda-dev/ForexWebApp  
 
 ---
 
 ### 🔹 Fitness Platform
 Online fitness tracking system  
-👉 https://github.com/iiradukunda-dev/Fitness-Platform  
+ https://github.com/iiradukunda-dev/Fitness-Platform  
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical" />
