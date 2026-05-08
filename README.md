@@ -125,7 +125,7 @@ Online fitness tracking system
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiradukunda-dev&theme=react-dark" />
@@ -133,13 +133,13 @@ Online fitness tracking system
 
 ---
 
-## 🎯 Career Goal
+##  Career Goal
 
 To become a **software engineer specializing in scalable backend systems and AI-powered applications**, while building impactful real-world solutions.
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
-✨ Open to collaboration, internships, and innovative projects.  
+ Open to collaboration, internships, and innovative projects.  
 Let’s build something impactful together.
