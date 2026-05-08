@@ -112,10 +112,6 @@ Online fitness tracking system
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical" />
 </p>
 
