@@ -30,9 +30,61 @@ I enjoy backend engineering, clean UI design, and exploring AI-driven technologi
 
 ## 💻 Tech Stack
 
-| Languages | Frontend | Backend | Databases | Tools |
-|----------|----------|----------|------------|--------|
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) C<br>![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) C++<br>![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) Java<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JS<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) PHP | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML5<br>![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS3<br>![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) React<br>![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) Tailwind<br>![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) Bootstrap | ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) Node.js<br>![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) Spring Boot<br>![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) Flask | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) MySQL<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) PostgreSQL<br>![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) Oracle | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) Git<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) GitHub<br>![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) Figma<br>![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) Netlify<br>![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) Vercel<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) Linux |
+<table align="center">
+<tr>
+<td align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php" />
+
+</td>
+
+<td align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+
+</td>
+
+<td align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring,flask" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<br><br>
+<img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+</td>
+
+<td align="center">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vercel,linux" />
+
+</td>
+
+<td align="center">
+
+### Learning
+
+<img src="https://skillicons.dev/icons?i=nextjs,docker,typescript" />
+
+</td>
+</tr>
+</table>
 
 ---
 
