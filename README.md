@@ -1,4 +1,4 @@
-# 👨‍💻 𝑰𝒓𝒂𝒅𝒖𝒌𝒖𝒏𝒅𝒂 𝑷𝒂𝒄𝒊𝒇𝒊𝒒𝒖𝒆
+#  𝑰𝒓𝒂𝒅𝒖𝒌𝒖𝒏𝒅𝒂 𝑷𝒂𝒄𝒊𝒇𝒊𝒒𝒖𝒆
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Cybersecurity;AI+%26+Prompt+Engineering;Designer" />
@@ -11,24 +11,24 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 𝑰’𝒎 𝒂 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆 𝒂𝒏𝒅 𝒔𝒆𝒄𝒖𝒓𝒆 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 𝒘𝒊𝒕𝒉 𝒎𝒐𝒅𝒆𝒓𝒏 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔.  
 𝑭𝒐𝒄𝒖𝒔𝒆𝒅 𝒐𝒏 𝒃𝒂𝒄𝒌𝒆𝒏𝒅 𝒆𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈, 𝒄𝒍𝒆𝒂𝒏 𝑼𝑰/𝑼𝑿, 𝒂𝒏𝒅 𝑨𝑰-𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔.
 
 ---
 
-## 🧠 Current Focus
+##  Current Focus
 
-- ⚙️ Backend systems & APIs (Node.js, Spring Boot)
-- 🔐 Cybersecurity fundamentals
-- 🤖 AI & automation workflows
-- 🎨 Modern UI/UX development
-- 📊 Data processing with Python
+-  Backend systems & APIs (Node.js, Spring Boot)
+-  Cybersecurity fundamentals
+-  AI & automation workflows
+-  Modern UI/UX development
+-  Data processing with Python
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <table align="center">
 <tr>
@@ -88,7 +88,7 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### 🔹 Shining Ministries
 Full-stack ministry management system  
