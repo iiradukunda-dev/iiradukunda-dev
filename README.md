@@ -20,7 +20,7 @@
 
 ##  Current Focus
 
--  Backend systems & APIs (Node.js, Spring Boot)
+-  Backend systems & APIs (Node.js, Spring Boot,laravel)
 -  Cybersecurity fundamentals
 -  AI & automation workflows
 -  Modern UI/UX development
