@@ -115,9 +115,9 @@ Online fitness tracking system
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=iiradukunda-dev&theme=radical" />
-</p>
+</p> -->
 
 ---
 
