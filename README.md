@@ -6,16 +6,17 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iiradukunda-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/iiradukunda-dev?style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/followers/iiradukunda-dev?style=for-the-badge&color=8A2BE2" />
 </p>
 
 ---
 
-##  About Me
+#  About Me
 
-𝑰’𝒎 𝒂 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆 𝒂𝒏𝒅 𝒔𝒆𝒄𝒖𝒓𝒆 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 𝒘𝒊𝒕𝒉 𝒎𝒐𝒅𝒆𝒓𝒏 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔.
+𝑰’𝒎 𝒂 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 passionate about building scalable and secure applications using modern technologies.
 
-𝑭𝒐𝒄𝒖𝒔𝒆𝒅 𝒐𝒏:
+###  Focus Areas
 
 - Backend Engineering
 - Cybersecurity
@@ -25,12 +26,12 @@
 
 ---
 
-##  Current Focus
+#  Current Focus
 
 -  Backend systems & APIs (Node.js, Spring Boot, Laravel)
--  Cybersecurity fundamentals
 -  AI-powered workflows
--  Modern frontend experiences
+-  Cybersecurity fundamentals
+-  Modern frontend development
 -  Data processing with Python
 
 ---
@@ -39,6 +40,7 @@
 
 <table align="center">
 <tr>
+
 <td align="center">
 
 ### Languages
@@ -62,17 +64,20 @@
 <img src="https://skillicons.dev/icons?i=nodejs,spring,flask" />
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
 <br><br>
 
-<img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 </td>
 
@@ -80,7 +85,7 @@
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,linux,vercel,netlify" />
 
 </td>
 
@@ -91,6 +96,7 @@
 <img src="https://skillicons.dev/icons?i=nextjs,docker,typescript" />
 
 </td>
+
 </tr>
 </table>
 
@@ -98,26 +104,30 @@
 
 #  Featured Projects
 
-### 🔹 Shining Ministries
+## 🔹 Shining Ministries
 
- Full-stack ministry management system  
- Tech Stack: React, Node.js, MySQL  
+ Full-stack ministry management system
+
+ Tech Stack:
+- React
+- Node.js
+- MySQL
 
 🔗 https://github.com/iiradukunda-dev/Shining-ministries
 
 ---
 
-### 🔹 Forex WebApp
+## 🔹 Forex WebApp
 
- Forex tracking & analytics platform  
+ Forex tracking and analytics platform
 
 🔗 https://github.com/iiradukunda-dev/ForexWebApp
 
 ---
 
-### 🔹 Fitness Platform
+## 🔹 Fitness Platform
 
- Online fitness tracking system  
+ Online fitness tracking system
 
 🔗 https://github.com/iiradukunda-dev/Fitness-Platform
 
@@ -126,13 +136,13 @@
 #  GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iiradukunda-dev&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iiradukunda-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -140,7 +150,7 @@
 #  Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiradukunda-dev&theme=react-dark&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiradukunda-dev&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -162,18 +172,58 @@ To become a **software engineer specializing in scalable backend systems and AI-
 #  Let’s Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
-  <a href="https://github.com/iiradukunda-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://github.com/iiradukunda-dev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+#  Snake Workflow Setup
+
+Create this file:
+
+## `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: iiradukunda-dev
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+```
 
 ---
 
