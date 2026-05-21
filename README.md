@@ -11,10 +11,17 @@
 
 ---
 
-##  About me!
+##  About Me
 
-𝑰’𝒎 𝒂 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆 𝒂𝒏𝒅 𝒔𝒆𝒄𝒖𝒓𝒆 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 𝒘𝒊𝒕𝒉 𝒎𝒐𝒅𝒆𝒓𝒏 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔.  
-𝑭𝒐𝒄𝒖𝒔𝒆𝒅 𝒐𝒏 𝒃𝒂𝒄𝒌𝒆𝒏𝒅 𝒆𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈, 𝒄𝒍𝒆𝒂𝒏 𝑼𝑰/𝑼𝑿, 𝒂𝒏𝒅 𝑨𝑰-𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔...
+𝑰’𝒎 𝒂 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆 𝒂𝒏𝒅 𝒔𝒆𝒄𝒖𝒓𝒆 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 𝒘𝒊𝒕𝒉 𝒎𝒐𝒅𝒆𝒓𝒏 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔.
+
+𝑭𝒐𝒄𝒖𝒔𝒆𝒅 𝒐𝒏:
+
+- Backend Engineering
+- Cybersecurity
+- AI & Prompt Engineering
+- Clean UI/UX
+- Automation Workflows
 
 ---
 
@@ -22,13 +29,13 @@
 
 -  Backend systems & APIs (Node.js, Spring Boot, Laravel)
 -  Cybersecurity fundamentals
--  AI & automation workflows
--  Modern UI/UX development
+-  AI-powered workflows
+-  Modern frontend experiences
 -  Data processing with Python
 
 ---
 
-##  Tech Stack
+#  Tech Stack
 
 <table align="center">
 <tr>
@@ -64,6 +71,7 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 <br><br>
+
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 </td>
@@ -72,7 +80,7 @@
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vercel,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify,linux" />
 
 </td>
 
@@ -88,62 +96,87 @@
 
 ---
 
-##  Featured Projects
+#  Featured Projects
 
 ### 🔹 Shining Ministries
-Full-stack ministry management system  
-Tech: React, Node.js, MySQL  
- https://github.com/iiradukunda-dev/Shining-ministries  
+
+ Full-stack ministry management system  
+ Tech Stack: React, Node.js, MySQL  
+
+🔗 https://github.com/iiradukunda-dev/Shining-ministries
 
 ---
 
 ### 🔹 Forex WebApp
-Forex tracking and analytics platform  
- https://github.com/iiradukunda-dev/ForexWebApp  
+
+ Forex tracking & analytics platform  
+
+🔗 https://github.com/iiradukunda-dev/ForexWebApp
 
 ---
 
 ### 🔹 Fitness Platform
-Online fitness tracking system  
- https://github.com/iiradukunda-dev/Fitness-Platform  
+
+ Online fitness tracking system  
+
+🔗 https://github.com/iiradukunda-dev/Fitness-Platform
 
 ---
 
-##  GitHub Stats
+#  GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iiradukunda-dev&theme=radical" />
-</p>
-
----
-
-##  Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiradukunda-dev&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=iiradukunda-dev&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-##  Contribution Snake
+#  Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiradukunda-dev&theme=react-dark&hide_border=true&area=true" width="100%">
 </p>
 
 ---
 
-##  Career Goal
+#  Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+#  Career Goal
 
 To become a **software engineer specializing in scalable backend systems and AI-powered applications**, while building impactful real-world solutions.
 
 ---
 
-##  Let’s Connect
+#  Let’s Connect
 
- Open to collaboration, internships, and innovative projects.  
-Let’s build something impactful together.
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/iiradukunda-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+</p>
