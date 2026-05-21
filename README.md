@@ -20,7 +20,7 @@
 
 ##  Current Focus
 
--  Backend systems & APIs (Node.js, Spring Boot,laravel)
+-  Backend systems & APIs (Node.js, Spring Boot, Laravel)
 -  Cybersecurity fundamentals
 -  AI & automation workflows
 -  Modern UI/UX development
@@ -122,6 +122,19 @@ Online fitness tracking system
 ---
 
 ##  Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiradukunda-dev&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+##  Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ##  Career Goal
