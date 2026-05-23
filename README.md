@@ -21,7 +21,7 @@
 - Cybersecurity
 - AI & Prompt Engineering
 - Clean UI/UX
-- Automation Workflows
+- Automation Workflows...
 
 ---
 
@@ -31,7 +31,7 @@
 -  Cybersecurity fundamentals
 -  AI-powered workflows
 -  Modern frontend experiences
--  Data processing with Python
+-  Data processing with Python...
 
 ---
 
