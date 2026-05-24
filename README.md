@@ -21,7 +21,7 @@
 - Cybersecurity
 - AI & Prompt Engineering
 - Clean UI/UX
-- Automation Workflows...
+- Automation Workflows
 
 ---
 
