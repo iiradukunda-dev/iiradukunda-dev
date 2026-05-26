@@ -101,7 +101,7 @@
 ### 🔹 Shining Ministries
 
  Full-stack ministry management system  
- Tech Stack: React, Node.js, MySQL  
+ Tech Stack: React, Flask, POSTGRESQL
 
 🔗 https://github.com/iiradukunda-dev/Shining-ministries
 
