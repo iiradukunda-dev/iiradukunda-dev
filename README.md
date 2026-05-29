@@ -19,6 +19,7 @@
 
 - Backend Engineering
 - Cybersecurity
+- Data science
 - AI & Prompt Engineering
 - Clean UI/UX
 - Automation Workflows
