@@ -81,7 +81,7 @@
 
 <td align="center">
 
-### Learning
+### Progress
 <img src="https://skillicons.dev/icons?i=nextjs,docker,typescript" />
 
 </td>
