@@ -24,6 +24,10 @@
 - Clean UI/UX
 - Automation Workflows
 
+<p align="center">
+  <img src="YOUR_ANIMATION_FILE.gif" alt="Coding Animation" width="600" />
+</p>
+
 ---
 
 ## Current Focus
