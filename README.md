@@ -146,7 +146,7 @@ Online fitness tracking system
 
 ---
 
-# Career Goal
+# Career Goal,
 
 To become a **software engineer specializing in scalable backend systems and AI-powered applications**, while building impactful real-world solutions.
 
