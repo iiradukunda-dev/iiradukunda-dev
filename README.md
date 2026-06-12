@@ -30,7 +30,7 @@
 
 ---
 
-## Current Focus>>>
+## Current Focus >>>
 
 - Backend systems & APIs (Node.js, Spring Boot, Laravel)
 - Cybersecurity fundamentals
