@@ -11,17 +11,17 @@
 
 ---
 
-## _About Me!_
+## ***About Me!***
 
-I’m a full-stack developer passionate about building scalable, secure, and intelligent applications. I enjoy turning ideas into real-world solutions through clean architecture, modern technologies, and continuous learning.
+*I’m a full-stack developer passionate about building **scalable**, **secure**, and **intelligent** applications. I enjoy turning ideas into real-world solutions through clean architecture, modern technologies, and continuous learning.*
 
 ### **Focused On:**
-- Backend Engineering
-- Cybersecurity
-- Data Engineering
-- AI & Machine Learning
-- Clean UI/UX
-- Automation Workflows
+- ***Backend Engineering***
+- ***Cybersecurity***
+- ***Data Engineering***
+- ***AI & Machine Learning***
+- ***Clean UI/UX***
+- ***Automation Workflows***
 
 ---
 
@@ -33,11 +33,11 @@ I’m a full-stack developer passionate about building scalable, secure, and int
 
 ## **Current Focus**
 
-- **Backend Systems & APIs** (Node.js, Spring Boot, Laravel)
+- **Backend Systems & APIs** (`Node.js`, `Spring Boot`, `Laravel`)
 - **Cybersecurity Fundamentals**
 - **AI-Powered Workflows**
 - **Modern Frontend Experiences**
-- **Data Processing with Python**
+- **Data Processing** (`Python`)
 
 ---
 
@@ -47,21 +47,21 @@ I’m a full-stack developer passionate about building scalable, secure, and int
 <tr>
 <td align="center">
 
-### Languages
+### `Languages`
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php" alt="Programming Languages" />
 
 </td>
 
 <td align="center">
 
-### Frontend
+### `Frontend`
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend Tech" />
 
 </td>
 
 <td align="center">
 
-### Backend
+### `Backend`
 <img src="https://skillicons.dev/icons?i=nodejs,spring,flask,laravel" alt="Backend Tech" />
 
 </td>
@@ -70,7 +70,7 @@ I’m a full-stack developer passionate about building scalable, secure, and int
 <tr>
 <td align="center">
 
-### Databases
+### `Databases`
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
 <br><br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
@@ -79,14 +79,14 @@ I’m a full-stack developer passionate about building scalable, secure, and int
 
 <td align="center">
 
-### Tools
+### `Tools`
 <img src="https://skillicons.dev/icons?i=git,github,figma,linux,vercel,netlify" alt="Tools" />
 
 </td>
 
 <td align="center">
 
-### Learning
+### `Learning`
 <img src="https://skillicons.dev/icons?i=docker,typescript,nextjs" alt="Currently Learning" />
 
 </td>
@@ -97,15 +97,15 @@ I’m a full-stack developer passionate about building scalable, secure, and int
 
 ## **Featured Projects**
 
-### 🔹 [Shining Ministries](https://github.com/iiradukunda-dev/Shining-ministries)
-A full-stack ministry management system for member tracking, events, and reporting.  
-**Tech Stack:** React, Flask, PostgreSQL  
+### 🔹 [**Shining Ministries**](https://github.com/iiradukunda-dev/Shining-ministries)
+> *A full-stack ministry management system for member tracking, events, and reporting.*  
+> **Tech Stack:** `React`, `Flask`, `PostgreSQL`  
 
-### 🔹 [Forex WebApp](https://github.com/iiradukunda-dev/ForexWebApp)
-Forex tracking, analytics, and market insights platform.  
+### 🔹 [**Forex WebApp**](https://github.com/iiradukunda-dev/ForexWebApp)
+> *Forex tracking, analytics, and market insights platform.*  
 
-### 🔹 [Fitness Platform](https://github.com/iiradukunda-dev/Fitness-Platform)
-A digital fitness tracking system for workouts and progress.  
+### 🔹 [**Fitness Platform**](https://github.com/iiradukunda-dev/Fitness-Platform)
+> *A digital fitness tracking system for workouts and progress.*  
 
 ---
 
@@ -148,7 +148,7 @@ A digital fitness tracking system for workouts and progress.
 
 ## **Career Goal**
 
-To become a **software engineer specializing in scalable backend systems, AI-powered applications, and cybersecurity**, while building impactful real-world solutions.
+> ***"To become a software engineer specializing in scalable backend systems, AI-powered applications, and cybersecurity, while building impactful real-world solutions."***
 
 ---
 
