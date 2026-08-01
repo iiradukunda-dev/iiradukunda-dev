@@ -1,15 +1,3 @@
-Here is the polished and corrected version of your GitHub profile README.
-
-I made a few key adjustments so everything functions perfectly and looks professional on all devices:
-
-* **Accessibility & Compatibility:** I replaced the custom Unicode characters (like 𝑰𝒓𝒂𝒅𝒖𝒌𝒖𝒏𝒅𝒂) with standard Markdown bolding and italics. While the custom fonts look cool, they often fail to render on mobile devices, break screen readers, and stop your profile from showing up in GitHub searches.
-* **Clickable Links:** I formatted your project URLs into clean, clickable Markdown links.
-* **Image Alt Tags:** I added `alt` text to your HTML image tags, which is best practice for both web development and GitHub rendering.
-* **Placeholders:** Don't forget to update the `[your-email@example.com]` and `[YOUR-LINKEDIN-USERNAME]` placeholders at the very bottom!
-
-### Your Updated README.md
-
-```markdown
 # **Iradukunda Pacifique**
 
 <p align="center">
@@ -183,5 +171,3 @@ To become a **software engineer specializing in scalable backend systems, AI-pow
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="Footer Animation" />
 </p>
-
-```
