@@ -48,7 +48,7 @@
 <td align="center">
 
 ### `Languages`
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,typescript" alt="Programming Languages" />
 
 </td>
 
@@ -71,7 +71,7 @@
 <td align="center">
 
 ### `Databases`
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" alt="Databases" />
 <br><br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 
@@ -87,7 +87,7 @@
 <td align="center">
 
 ### `Learning`
-<img src="https://skillicons.dev/icons?i=docker,typescript,nextjs" alt="Currently Learning" />
+<img src="https://skillicons.dev/icons?i=docker" alt="Currently Learning" />
 
 </td>
 </tr>
@@ -112,7 +112,7 @@
 ## **GitHub Analytics**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -141,7 +141,11 @@
 ## **Contribution Snake**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake.svg?v=1" />
+  </picture>
 </p>
 
 ---
