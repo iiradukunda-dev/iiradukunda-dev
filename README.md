@@ -113,7 +113,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -125,7 +125,7 @@
 ## **GitHub Trophies**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iiradukunda-dev&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iiradukunda-dev&theme=radical&no-frame=true&margin-w=15&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
