@@ -80,7 +80,7 @@
 <td align="center">
 
 ### `Tools`
-<img src="https://skillicons.dev/icons?i=git,github,figma,linux,vercel,netlify" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,linux,vercel,netlify,docker,postman" alt="Tools" />
 
 </td>
 
