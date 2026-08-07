@@ -1,52 +1,94 @@
 # **Iradukunda Pacifique**
 
-<!-- 1. THE 3D HERO BANNER -->
-<!-- Replace '3d-hero.gif' with a looping 3D animation created in Spline or Blender -->
 <p align="center">
-  <img src="assets/3d-hero.gif" width="850" alt="3D Floating Workspace or Logo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Data+Engineer;Cybersecurity;UI+Designer;AI+%26+Machine+Learning;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iiradukunda-dev-reset1&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iiradukunda-dev-2&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/iiradukunda-dev?style=for-the-badge" alt="GitHub Followers" />
 </p>
 
 ---
 
+## ***About Me!***
+
+*I’m a full-stack developer passionate about building **scalable**, **secure**, and **intelligent** applications. I enjoy turning ideas into real-world solutions through clean architecture, modern technologies, and continuous learning.*
+
+### **Focused On:**
+- ***Backend Engineering***
+- ***Cybersecurity***
+- ***Data Engineering***
+- ***AI & Machine Learning***
+- ***Clean UI/UX***
+- ***Automation Workflows***
+
+---
+
 <p align="center">
-  <i><b>Building scalable backend systems, AI-powered applications, and secure workflows.</b></i>
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-492f7fd5-4f25-4f6b-8f07-5f5c5b8f7d14.gif" width="700" alt="Coding Animation">
 </p>
+
+---
+
+## **Current Focus**
+
+- **Backend Systems & APIs** (`Node.js`, `Spring Boot`, `Laravel`)
+- **Cybersecurity Fundamentals**
+- **AI-Powered Workflows**
+- **Modern Frontend Experiences**
+- **Data Processing** (`Python`)
 
 ---
 
 ## **Tech Stack**
 
-<!-- 2. 3D ISOMETRIC ICONS -->
-<!-- Replace these placeholders with 3D PNG icons (e.g., from IconBuddy or Figma 3D packs) -->
-<table align="center" style="border: none;">
+<table align="center">
 <tr>
-<td align="center" width="33%">
-  <h3>`Languages`</h3>
-  <img src="assets/3d-icons/ts.png" width="50" alt="TypeScript" />
-  <img src="assets/3d-icons/js.png" width="50" alt="JavaScript" />
-  <img src="assets/3d-icons/python.png" width="50" alt="Python" />
-  <img src="assets/3d-icons/java.png" width="50" alt="Java" />
-  <img src="assets/3d-icons/php.png" width="50" alt="PHP" />
+<td align="center">
+
+### `Languages`
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,typescript" alt="Programming Languages" />
+
 </td>
 
-<td align="center" width="33%">
-  <h3>`Frontend`</h3>
-  <img src="assets/3d-icons/react.png" width="50" alt="React" />
-  <img src="assets/3d-icons/nextjs.png" width="50" alt="Next.js" />
-  <img src="assets/3d-icons/tailwind.png" width="50" alt="Tailwind" />
+<td align="center">
+
+### `Frontend`
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend Tech" />
+
 </td>
 
-<td align="center" width="33%">
-  <h3>`Backend & DB`</h3>
-  <img src="assets/3d-icons/nodejs.png" width="50" alt="Node.js" />
-  <img src="assets/3d-icons/prisma.png" width="50" alt="Prisma" />
-  <img src="assets/3d-icons/postgresql.png" width="50" alt="PostgreSQL" />
-  <img src="assets/3d-icons/oracle.png" width="50" alt="Oracle" />
+<td align="center">
+
+### `Backend`
+<img src="https://skillicons.dev/icons?i=nodejs,spring,flask,laravel" alt="Backend Tech" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### `Databases`
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" alt="Databases" />
+<br><br>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+
+</td>
+
+<td align="center">
+
+### `Tools`
+<img src="https://skillicons.dev/icons?i=git,github,figma,linux,vercel,netlify,docker,postman" alt="Tools" />
+
+</td>
+
+<td align="center">
+
+### `Learning`
+
+
 </td>
 </tr>
 </table>
@@ -55,51 +97,62 @@
 
 ## **Featured Projects**
 
-<!-- 3. FLOATING PROJECT CARDS -->
-<!-- Design project banners in Figma with heavy drop shadows and rounded corners, export as PNGs, and link them here -->
-<p align="center">
-  <a href="https://github.com/iiradukunda-dev/Shining-ministries">
-    <img src="assets/projects/shining-ministries-3d-card.png" width="800" alt="Shining Ministries Project" />
-  </a>
-</p>
+### 🔹 [**Shining Ministries**](https://github.com/iiradukunda-dev/Shining-ministries)
+> *A full-stack ministry management system for member tracking, events, and reporting.*  
+> **Tech Stack:** `React`, `Flask`, `PostgreSQL`  
 
-<p align="center">
-  <a href="https://github.com/iiradukunda-dev/ForexWebApp">
-    <img src="assets/projects/forex-webapp-3d-card.png" width="800" alt="Forex WebApp Project" />
-  </a>
-</p>
+### 🔹 [**Forex WebApp**](https://github.com/iiradukunda-dev/ForexWebApp)
+> *Forex tracking, analytics, and market insights platform.*  
 
-<p align="center">
-  <a href="https://github.com/iiradukunda-dev/Fitness-Platform">
-    <img src="assets/projects/fitness-platform-3d-card.png" width="800" alt="Fitness Platform Project" />
-  </a>
-</p>
-
----
-
-## **Activity & Contributions**
-
-<!-- 4. DYNAMIC 3D GRAPHS -->
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
+### 🔹 [**Fitness Platform**](https://github.com/iiradukunda-dev/Fitness-Platform)
+> *A digital fitness tracking system for workouts and progress.*  
 
 ---
 
 ## **GitHub Analytics**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iiradukunda-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## **GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iiradukunda-dev&theme=radical&no-frame=true&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## **Activity Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiradukunda-dev&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph">
+</p>
+
+---
+
+## **Contribution Snake**
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake.svg?v=1" />
+  </picture>
+</p>
+
+---
+
+## **Career Goal**
+
+> ***"To become a software engineer specializing in scalable backend systems, AI-powered applications, and cybersecurity, while building impactful real-world solutions."***
 
 ---
 
@@ -117,7 +170,8 @@
   </a>
 </p>
 
-<!-- 5. PARALLAX/MOTION FOOTER -->
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="Footer Animation" />
 </p>
