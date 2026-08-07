@@ -5,39 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iiradukunda-dev-2&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iiradukunda-dev-reset1&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/iiradukunda-dev?style=for-the-badge" alt="GitHub Followers" />
 </p>
 
 ---
 
-## ***About Me!***
-
-*I’m a full-stack developer passionate about building **scalable**, **secure**, and **intelligent** applications. I enjoy turning ideas into real-world solutions through clean architecture, modern technologies, and continuous learning.*
-
-### **Focused On:**
-- ***Backend Engineering***
-- ***Cybersecurity***
-- ***Data Engineering***
-- ***AI & Machine Learning***
-- ***Clean UI/UX***
-- ***Automation Workflows***
-
----
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750337-492f7fd5-4f25-4f6b-8f07-5f5c5b8f7d14.gif" width="700" alt="Coding Animation">
+  <i><b>Building scalable backend systems, AI-powered applications, and secure workflows.</b></i>
 </p>
-
----
-
-## **Current Focus**
-
-- **Backend Systems & APIs** (`Node.js`, `Spring Boot`, `Laravel`)
-- **Cybersecurity Fundamentals**
-- **AI-Powered Workflows**
-- **Modern Frontend Experiences**
-- **Data Processing** (`Python`)
 
 ---
 
@@ -83,15 +59,25 @@
 <img src="https://skillicons.dev/icons?i=git,github,figma,linux,vercel,netlify,docker,postman" alt="Tools" />
 
 </td>
-
-<td align="center">
-
-### `Learning`
-
-
-</td>
 </tr>
 </table>
+
+---
+
+## **Activity & Contributions**
+
+<p align="center">
+  <!-- This is the new 3D graph. Ensure you run the GitHub Action from the previous step! -->
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
 
 ---
 
@@ -112,47 +98,13 @@
 ## **GitHub Analytics**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iiradukunda-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## **GitHub Trophies**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iiradukunda-dev&theme=radical&no-frame=true&margin-w=15&no-bg=true" alt="GitHub Trophies" />
 </p>
-
----
-
-## **Activity Graph**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiradukunda-dev&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph">
-</p>
-
----
-
-## **Contribution Snake**
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake.svg?v=1" />
-  </picture>
-</p>
-
----
-
-## **Career Goal**
-
-> ***"To become a software engineer specializing in scalable backend systems, AI-powered applications, and cybersecurity, while building impactful real-world solutions."***
 
 ---
 
@@ -169,8 +121,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="Footer Animation" />
