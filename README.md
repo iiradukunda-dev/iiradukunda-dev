@@ -1,7 +1,9 @@
 # **Iradukunda Pacifique**
 
+<!-- 1. THE 3D HERO BANNER -->
+<!-- Replace '3d-hero.gif' with a looping 3D animation created in Spline or Blender -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Data+Engineer;Cybersecurity;UI+Designer;AI+%26+Machine+Learning;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="assets/3d-hero.gif" width="850" alt="3D Floating Workspace or Logo" />
 </p>
 
 <p align="center">
@@ -19,55 +21,66 @@
 
 ## **Tech Stack**
 
-<table align="center">
+<!-- 2. 3D ISOMETRIC ICONS -->
+<!-- Replace these placeholders with 3D PNG icons (e.g., from IconBuddy or Figma 3D packs) -->
+<table align="center" style="border: none;">
 <tr>
-<td align="center">
-
-### `Languages`
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,typescript" alt="Programming Languages" />
-
+<td align="center" width="33%">
+  <h3>`Languages`</h3>
+  <img src="assets/3d-icons/ts.png" width="50" alt="TypeScript" />
+  <img src="assets/3d-icons/js.png" width="50" alt="JavaScript" />
+  <img src="assets/3d-icons/python.png" width="50" alt="Python" />
+  <img src="assets/3d-icons/java.png" width="50" alt="Java" />
+  <img src="assets/3d-icons/php.png" width="50" alt="PHP" />
 </td>
 
-<td align="center">
-
-### `Frontend`
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend Tech" />
-
+<td align="center" width="33%">
+  <h3>`Frontend`</h3>
+  <img src="assets/3d-icons/react.png" width="50" alt="React" />
+  <img src="assets/3d-icons/nextjs.png" width="50" alt="Next.js" />
+  <img src="assets/3d-icons/tailwind.png" width="50" alt="Tailwind" />
 </td>
 
-<td align="center">
-
-### `Backend`
-<img src="https://skillicons.dev/icons?i=nodejs,spring,flask,laravel" alt="Backend Tech" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### `Databases`
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" alt="Databases" />
-<br><br>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-
-</td>
-
-<td align="center">
-
-### `Tools`
-<img src="https://skillicons.dev/icons?i=git,github,figma,linux,vercel,netlify,docker,postman" alt="Tools" />
-
+<td align="center" width="33%">
+  <h3>`Backend & DB`</h3>
+  <img src="assets/3d-icons/nodejs.png" width="50" alt="Node.js" />
+  <img src="assets/3d-icons/prisma.png" width="50" alt="Prisma" />
+  <img src="assets/3d-icons/postgresql.png" width="50" alt="PostgreSQL" />
+  <img src="assets/3d-icons/oracle.png" width="50" alt="Oracle" />
 </td>
 </tr>
 </table>
 
 ---
 
-## **Activity & Contributions**
+## **Featured Projects**
+
+<!-- 3. FLOATING PROJECT CARDS -->
+<!-- Design project banners in Figma with heavy drop shadows and rounded corners, export as PNGs, and link them here -->
+<p align="center">
+  <a href="https://github.com/iiradukunda-dev/Shining-ministries">
+    <img src="assets/projects/shining-ministries-3d-card.png" width="800" alt="Shining Ministries Project" />
+  </a>
+</p>
 
 <p align="center">
-  <!-- This is the new 3D graph. Ensure you run the GitHub Action from the previous step! -->
+  <a href="https://github.com/iiradukunda-dev/ForexWebApp">
+    <img src="assets/projects/forex-webapp-3d-card.png" width="800" alt="Forex WebApp Project" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iiradukunda-dev/Fitness-Platform">
+    <img src="assets/projects/fitness-platform-3d-card.png" width="800" alt="Fitness Platform Project" />
+  </a>
+</p>
+
+---
+
+## **Activity & Contributions**
+
+<!-- 4. DYNAMIC 3D GRAPHS -->
+<p align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
@@ -81,29 +94,11 @@
 
 ---
 
-## **Featured Projects**
-
-### 🔹 [**Shining Ministries**](https://github.com/iiradukunda-dev/Shining-ministries)
-> *A full-stack ministry management system for member tracking, events, and reporting.*  
-> **Tech Stack:** `React`, `Flask`, `PostgreSQL`  
-
-### 🔹 [**Forex WebApp**](https://github.com/iiradukunda-dev/ForexWebApp)
-> *Forex tracking, analytics, and market insights platform.*  
-
-### 🔹 [**Fitness Platform**](https://github.com/iiradukunda-dev/Fitness-Platform)
-> *A digital fitness tracking system for workouts and progress.*  
-
----
-
 ## **GitHub Analytics**
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iiradukunda-dev&theme=radical&no-frame=true&margin-w=15&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -122,6 +117,7 @@
   </a>
 </p>
 
+<!-- 5. PARALLAX/MOTION FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="Footer Animation" />
 </p>
