@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iiradukunda-dev-2&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iiradukunda-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/iiradukunda-dev?style=for-the-badge" alt="GitHub Followers" />
 </p>
 
@@ -87,7 +87,6 @@
 <td align="center">
 
 ### `Learning`
-
 
 </td>
 </tr>
