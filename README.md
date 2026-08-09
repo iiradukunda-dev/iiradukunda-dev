@@ -111,8 +111,8 @@
 ## **GitHub Analytics**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iiradukunda-dev&theme=radical" alt="GitHub Stats" />
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iiradukunda-dev&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
