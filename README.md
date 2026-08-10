@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iiradukunda-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/iiradukunda-dev?style=for-the-badge" alt="GitHub Followers" />
 </p>
 
@@ -133,40 +132,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiradukunda-dev&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph">
-</p>
-
----
-
-## **Contribution Snake**
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/iiradukunda-dev/iiradukunda-dev/output/github-contribution-grid-snake.svg?v=1" />
-  </picture>
-</p>
-
----
-
-## **Career Goal**
-
-> ***"To become a software engineer specializing in scalable backend systems, AI-powered applications, and cybersecurity, while building impactful real-world solutions."***
-
----
-
-## **Let’s Connect**
-
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/iiradukunda-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
 
 ---
