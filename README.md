@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Data+Engineer;Cybersecurity;UI+Designer;AI+%26+Machine+Learning;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/iiradukunda-dev?style=for-the-badge" alt="GitHub Followers" />
-</p>
-
 ---
 
 ## ***About Me!***
@@ -116,14 +112,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=iiradukunda-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iiradukunda-dev&theme=radical&no-frame=true&margin-w=15&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
