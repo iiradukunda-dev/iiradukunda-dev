@@ -32,7 +32,7 @@
 - **Cybersecurity Fundamentals**
 - **AI-Powered Workflows**
 - **Modern Frontend Experiences**
-- **Data Processing** (`Python`)
+- **Data Processing** (`Python`, `NumPy`, `Matplotlib`)
 
 ---
 
@@ -84,7 +84,9 @@
 
 <td align="center">
 
-### `Learning`
+### `Data Science`
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
 
 </td>
 </tr>
