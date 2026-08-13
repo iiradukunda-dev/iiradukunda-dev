@@ -30,9 +30,9 @@
 
 - **Backend Systems & APIs** (`Node.js`, `Spring Boot`, `Laravel`)
 - **Cybersecurity Fundamentals**
-- **AI-Powered Workflows**
+- **AI-Powered Workflows & Machine Learning** (`TensorFlow`, `XGBoost`, `LightGBM`)
 - **Modern Frontend Experiences**
-- **Data Processing** (`Python`, `NumPy`, `Matplotlib`)
+- **Data Processing & Analysis** (`Python`, `Pandas`, `NumPy`, `Matplotlib`, `SQL`)
 
 ---
 
@@ -68,10 +68,11 @@
 <tr>
 <td align="center">
 
-### `Databases`
+### `Databases & SQL`
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" alt="Databases" />
 <br><br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 
 </td>
 
@@ -84,9 +85,14 @@
 
 <td align="center">
 
-### `Data Science`
+### `Data Science & AI`
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+<br><br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/XGBoost-EB6864?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+<img src="https://img.shields.io/badge/LightGBM-3776AB?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
 
 </td>
 </tr>
