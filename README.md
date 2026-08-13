@@ -26,16 +26,6 @@
 
 ---
 
-## **Current Focus**
-
-- **Backend Systems & APIs** (`Node.js`, `Spring Boot`, `Laravel`)
-- **Cybersecurity Fundamentals**
-- **AI-Powered Workflows & Machine Learning** (`TensorFlow`, `XGBoost`, `LightGBM`)
-- **Modern Frontend Experiences**
-- **Data Processing & Analysis** (`Python`, `Pandas`, `NumPy`, `Matplotlib`, `SQL`)
-
----
-
 ## **Tech Stack**
 
 <table align="center">
