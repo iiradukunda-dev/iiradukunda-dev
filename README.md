@@ -1,7 +1,7 @@
 # **Iradukunda Pacifique**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Data+Engineer;Cybersecurity;UI+Designer;AI+%26+Machine+Learning;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&weight=700&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Data+Engineer;Cybersecurity;UI+Designer;AI+%26+Machine+Learning;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 ---
