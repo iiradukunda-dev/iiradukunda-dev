@@ -89,20 +89,6 @@
 
 ---
 
-## **Featured Projects**
-
-### 🔹 [**Shining Ministries**](https://github.com/iiradukunda-dev/Shining-ministries)
-> *A full-stack ministry management system for member tracking, events, and reporting.*  
-> **Tech Stack:** `React`, `Flask`, `PostgreSQL`  
-
-### 🔹 [**Forex WebApp**](https://github.com/iiradukunda-dev/ForexWebApp)
-> *Forex tracking, analytics, and market insights platform.*  
-
-### 🔹 [**Fitness Platform**](https://github.com/iiradukunda-dev/Fitness-Platform)
-> *A digital fitness tracking system for workouts and progress.*  
-
----
-
 ## **GitHub Analytics**
 
 <p align="center">
