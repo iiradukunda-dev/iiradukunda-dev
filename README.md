@@ -58,6 +58,9 @@
 
 ### `Backend`
 <img src="https://skillicons.dev/icons?i=nodejs,spring,flask,laravel" alt="Backend Tech" />
+<br><br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing" />
 
 </td>
 </tr>
