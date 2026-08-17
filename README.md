@@ -31,15 +31,15 @@
 <table align="center">
   <tr>
     <td align="center">
-      <h3>Languages</h3>
+      <h3><code>Languages</code></h3>
       <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,typescript" alt="Programming Languages" />
     </td>
     <td align="center">
-      <h3>Frontend</h3>
+      <h3><code>Frontend</code></h3>
       <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend Tech" />
     </td>
     <td align="center">
-      <h3>Backend</h3>
+      <h3><code>Backend</code></h3>
       <img src="https://skillicons.dev/icons?i=nodejs,spring,flask,laravel" alt="Backend Tech" />
       <br><br>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -48,18 +48,18 @@
   </tr>
   <tr>
     <td align="center">
-      <h3>Databases & SQL</h3>
+      <h3><code>Databases & SQL</code></h3>
       <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" alt="Databases" />
       <br><br>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
     </td>
     <td align="center">
-      <h3>Tools</h3>
+      <h3><code>Tools</code></h3>
       <img src="https://skillicons.dev/icons?i=git,github,figma,linux,vercel,netlify,docker,postman" alt="Tools" />
     </td>
     <td align="center">
-      <h3>Data Science & AI</h3>
+      <h3><code>Data Science & AI</code></h3>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
       <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
@@ -75,14 +75,16 @@
 
 ## **GitHub Analytics**
 
-<p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiradukunda-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
