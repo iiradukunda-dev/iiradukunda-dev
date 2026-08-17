@@ -29,63 +29,46 @@
 ## **Tech Stack**
 
 <table align="center">
-<tr>
-<td align="center">
-
-### `Languages`
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,typescript" alt="Programming Languages" />
-
-</td>
-
-<td align="center">
-
-### `Frontend`
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend Tech" />
-
-</td>
-
-<td align="center">
-
-### `Backend`
-<img src="https://skillicons.dev/icons?i=nodejs,spring,flask,laravel" alt="Backend Tech" />
-<br><br>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### `Databases & SQL`
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" alt="Databases" />
-<br><br>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-
-</td>
-
-<td align="center">
-
-### `Tools`
-<img src="https://skillicons.dev/icons?i=git,github,figma,linux,vercel,netlify,docker,postman" alt="Tools" />
-
-</td>
-
-<td align="center">
-
-### `Data Science & AI`
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-<br><br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/XGBoost-EB6864?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
-<img src="https://img.shields.io/badge/LightGBM-3776AB?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
-
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <h3>Languages</h3>
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,typescript" alt="Programming Languages" />
+    </td>
+    <td align="center">
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend Tech" />
+    </td>
+    <td align="center">
+      <h3>Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,spring,flask,laravel" alt="Backend Tech" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Databases & SQL</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" alt="Databases" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+    </td>
+    <td align="center">
+      <h3>Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,figma,linux,vercel,netlify,docker,postman" alt="Tools" />
+    </td>
+    <td align="center">
+      <h3>Data Science & AI</h3>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+      <br><br>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/XGBoost-EB6864?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+      <img src="https://img.shields.io/badge/LightGBM-3776AB?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
+    </td>
+  </tr>
 </table>
 
 ---
