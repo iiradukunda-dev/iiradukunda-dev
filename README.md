@@ -1,7 +1,7 @@
 # **Iradukunda Pacifique**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&weight=700&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Data+Engineer;Cybersecurity;UI+Designer;AI+%26+Machine+Learning;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&weight=700&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Data+Engineer;Cybersecurity;UI+Designer;AI+%26+Machine+Learning;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750337-492f7fd5-4f25-4f6b-8f07-5f5c5b8f7d14.gif" width="700" alt="Coding Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-492f7fd5-4f25-4f6b-8f07-5f5c5b8f7d14.gif" width="700" alt="Coding Animation">
 </p>
 
 ---
@@ -29,65 +29,80 @@
 ## **Tech Stack**
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <h3><code>Languages</code></h3>
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,typescript" alt="Programming Languages" />
-    </td>
-    <td align="center">
-      <h3><code>Frontend</code></h3>
-      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend Tech" />
-    </td>
-    <td align="center">
-      <h3><code>Backend</code></h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,spring,flask,laravel" alt="Backend Tech" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3><code>Databases & SQL</code></h3>
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" alt="Databases" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-    </td>
-    <td align="center">
-      <h3><code>Tools</code></h3>
-      <img src="https://skillicons.dev/icons?i=git,github,figma,linux,vercel,netlify,docker,postman" alt="Tools" />
-    </td>
-    <td align="center">
-      <h3><code>Data Science & AI</code></h3>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-      <br><br>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/XGBoost-EB6864?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
-      <img src="https://img.shields.io/badge/LightGBM-3776AB?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
-    </td>
-  </tr>
+<tr>
+<td align="center">
+
+### `Languages`
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,typescript" alt="Programming Languages" />
+
+</td>
+
+<td align="center">
+
+### `Frontend`
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend Tech" />
+
+</td>
+
+<td align="center">
+
+### `Backend`
+<img src="https://skillicons.dev/icons?i=nodejs,spring,flask,laravel" alt="Backend Tech" />
+<br><br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### `Databases & SQL`
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" alt="Databases" />
+<br><br>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+
+</td>
+
+<td align="center">
+
+### `Tools`
+<img src="https://skillicons.dev/icons?i=git,github,figma,linux,vercel,netlify,docker,postman" alt="Tools" />
+
+</td>
+
+<td align="center">
+
+### `Data Science & AI`
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+<br><br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/XGBoost-EB6864?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+<img src="https://img.shields.io/badge/LightGBM-3776AB?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
+
+</td>
+</tr>
 </table>
 
 ---
 
 ## **GitHub Analytics**
 
-<div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iiradukunda-dev&theme=radical" alt="GitHub Stats" />
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iiradukunda-dev&theme=radical" alt="Top Languages" />
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiradukunda-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iiradukunda-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="Footer Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="Footer Animation" />
 </p>
