@@ -103,14 +103,6 @@
 
 ---
 
-## **Activity Graph**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiradukunda-dev&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph">
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="Footer Animation" />
 </p>
