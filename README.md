@@ -1,7 +1,7 @@
 # **Iradukunda Pacifique**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&weight=700&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Data+Engineer;Cybersecurity;UI+Designer;AI+%26+Machine+Learning;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&weight=700&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Data+Engineer;Cybersecurity;UI+Designer;AI+%26+Machine+Learning;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750337-492f7fd5-4f25-4f6b-8f07-5f5c5b8f7d14.gif" width="700" alt="Coding Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-492f7fd5-4f25-4f6b-8f07-5f5c5b8f7d14.gif" width="700" alt="Coding Animation">
 </p>
 
 ---
@@ -93,16 +93,16 @@
 ## **GitHub Analytics**
 
 <p align="center">
-  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iiradukunda-dev&theme=radical" alt="GitHub Stats" />
-  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iiradukunda-dev&theme=radical" alt="Top Languages" />
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iiradukunda-dev&theme=radical" alt="GitHub Stats" />
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iiradukunda-dev&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iiradukunda-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiradukunda-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="Footer Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="Footer Animation" />
 </p>
