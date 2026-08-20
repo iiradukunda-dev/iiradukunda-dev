@@ -8,7 +8,7 @@
 
 ## ***About Me!***
 
-*I’m a full-stack developer passionate about building **scalable**, **secure**, and **intelligent** applications. I enjoy turning ideas into real-world solutions through clean architecture, modern technologies, and continuous learning.*
+*I’m a full-stack developer passionate about building **scalable**, **secure**, and **intelligent** applications. I enjoy turning ideas into real-world solutions through clean architecture, modern technologies, and continuous learning..*
 
 ### **Focused On:**
 - ***Backend Engineering***
