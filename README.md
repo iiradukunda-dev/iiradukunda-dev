@@ -21,7 +21,8 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750337-492f7fd5-4f25-4f6b-8f07-5f5c5b8f7d14.gif" width="700" alt="Coding Animation">
+  <!-- Replace "watermarked_img_2263308475228311123.jpg" with the actual path after you upload the image to your repository -->
+  <img src="watermarked_img_2263308475228311123.jpg" width="800" alt="Developer Workspace">
 </p>
 
 ---
