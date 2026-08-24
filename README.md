@@ -8,7 +8,7 @@
 
 ## ***About Me!***
 
-*I’m a full-stack developer passionate about building **scalable**, **secure**, and **intelligent** applications. I enjoy turning ideas into real-world solutions through clean architecture, modern technologies, and continuous learning..*
+*I’m a full-stack developer passionate about building **scalable**, **secure**, and **intelligent** applications. I enjoy turning ideas into real-world solutions through clean architecture, modern technologies, and continuous learning.*
 
 ### **Focused On:**
 - ***Backend Engineering***
@@ -99,6 +99,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.vercel.app/?user=iiradukunda-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iiradukunda-dev&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
