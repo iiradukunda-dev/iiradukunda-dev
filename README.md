@@ -21,8 +21,15 @@
 ---
 
 <p align="center">
-  <!-- Replace "watermarked_img_2263308475228311123.jpg" with the actual path after you upload the image to your repository -->
-  <img src="watermarked_img_2263308475228311123.jpg" width="800" alt="Developer Workspace">
+  <!-- Replace "YOUR_ILLUSTRATION_IMAGE.png" with the link to the illustration you download -->
+  <img src="YOUR_ILLUSTRATION_IMAGE.png" width="600" alt="Developer Illustration">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iiradukunda-dev&color=007ec6&style=flat-square&label=Profile+views" alt="Profile Views" />
+  <a href="https://github.com/iiradukunda-dev">
+    <img src="https://img.shields.io/github/followers/iiradukunda-dev?label=Follow&style=social" alt="Follow" />
+  </a>
 </p>
 
 ---
@@ -100,10 +107,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.vercel.app/?user=iiradukunda-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iiradukunda-dev&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
