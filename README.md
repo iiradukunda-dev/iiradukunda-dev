@@ -14,7 +14,7 @@
 
 ### **Focused On:**
 - ***Backend Engineering***
-- ***Cybersecurity***
+- ***Cyber Security***
 - ***Data Engineering***
 - ***AI & Machine Learning***
 - ***Clean UI/UX***
