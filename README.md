@@ -105,14 +105,23 @@
 
 <div align="center">
 
-![GitHub Stats][stat-cards]
-![Top Languages][stat-langs]
+<!-- Dynamic GitHub Stats & Top Languages -->
+![GitHub Live Stats][stat-live-cards]
+![Top Languages Live][stat-live-langs]
 
 </div>
 
 <div align="center">
 
+<!-- Dynamic Streak Stats -->
 ![GitHub Streak][stat-streak]
+
+</div>
+
+<div align="center">
+
+<!-- Dynamic Activity Contribution Graph -->
+![GitHub Activity Graph][stat-activity-graph]
 
 </div>
 
@@ -158,7 +167,8 @@
 [badge-xgboost]: https://img.shields.io/badge/XGBoost-EB6864?style=for-the-badge&logo=xgboost&logoColor=white
 [badge-lightgbm]: https://img.shields.io/badge/LightGBM-3776AB?style=for-the-badge&logo=lightgbm&logoColor=white
 
-<!-- GitHub Stats -->
-[stat-cards]: https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iiradukunda-dev&theme=radical
-[stat-langs]: https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iiradukunda-dev&theme=radical
-[stat-streak]: https://github-readme-streak-stats.vercel.app/?user=iiradukunda-dev&theme=radical&hide_border=true
+<!-- GitHub Dynamic Analytics Links -->
+[stat-live-cards]: https://github-readme-stats.vercel.app/api?username=iiradukunda-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117
+[stat-live-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=iiradukunda-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117
+[stat-streak]: https://github-readme-streak-stats.vercel.app/?user=iiradukunda-dev&theme=radical&hide_border=true&background=0D1117
+[stat-activity-graph]: https://github-readme-activity-graph.vercel.app/graph?username=iiradukunda-dev&theme=radical&hide_border=true&bg_color=0D1117
